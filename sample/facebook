@@ -1,0 +1,6 @@
+Server:         dns
+Address:        172.17.0.14#53
+
+Non-authoritative answer:
+Name:   facebook.com
+Address: 173.252.90.36
